@@ -73,9 +73,13 @@ td,th{
 .layui-form input[type=checkbox], .layui-form input[type=radio], .layui-form select{
 
 }
+td{
+    text-align: center;
+}
 th{
     background: #e6e6e6;
     height: 40px;
+    text-align: center;
 }
 .tdItem img{
     width: 100px;
